@@ -1,2 +1,3 @@
 **/node_modules/**
-**/apigee-edge-to-x-migration-tool/
+# **/apigee-edge-to-x-migration-tool/
+# **/tools/apigee-edge-to-x-migration-tool/
